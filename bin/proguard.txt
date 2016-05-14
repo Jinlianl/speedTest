@@ -1,0 +1,6 @@
+# view res/layout/activity_main.xml #generated:35
+-keep class com.example.speedtest.DrawAnimation { <init>(...); }
+
+# view AndroidManifest.xml #generated:16
+-keep class com.example.speedtest.MainActivity { <init>(...); }
+
